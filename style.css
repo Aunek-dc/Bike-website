@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.body{
+  font-family: 'Poppins', sans-serif;
+}
+/* Header all */
+/* Button */
+.bt-text{
+  color: #ffffff;
+  padding: 10px 46px;
+  background-color: #E76F51;
+  border: 0;
+}
+/* Header end */
+
+/* Main section */
+small{
+  color: #E76F51;
+}
+.grayscale img{
+  filter: grayscale(100%);
+  width: 85%;
+}
+
+/* Main section end */
